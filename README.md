@@ -1,2 +1,2 @@
 # meetup-slides
-slides prepared for presentation session on different events. 
+ Slides prepared for presentation session on different events. Please feel free to suggest corrections in slides. 
